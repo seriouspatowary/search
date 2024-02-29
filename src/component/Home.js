@@ -44,7 +44,7 @@ function SearchPage() {
 
 
   const toggleDropdown = () => {
-    setDropdownOpen(!dropdownOpen); // Toggle dropdown visibility
+    setDropdownOpen(!dropdownOpen); 
   };
 
 
